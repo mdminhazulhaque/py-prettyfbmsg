@@ -1,0 +1,5 @@
+● Hello
+○ Hi
+● How is it going?
+○ Fine.
+● Thanks.
